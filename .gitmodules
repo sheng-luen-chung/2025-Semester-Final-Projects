@@ -4,3 +4,6 @@
 [submodule "Space_Invader"]
 	path = Space_Invader
 	url = https://github.com/lilmu/Space_Invader.git
+[submodule "Tetris"]
+	path = Tetris
+	url = ./../Tetris
