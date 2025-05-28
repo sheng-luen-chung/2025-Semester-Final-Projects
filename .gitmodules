@@ -10,3 +10,6 @@
 [submodule "JAVA-B11207014-Morris-B11207029-Johnson"]
 	path = JAVA-B11207014-Morris-B11207029-Johnson
 	url = https://github.com/sheng-luen-chung/JAVA-B11207014-Morris-B11207029-Johnson.git
+[submodule "JAVA_TA_2024"]
+	path = JAVA_TA_2024
+	url = https://github.com/sheng-luen-chung/JAVA_TA_2024.git
