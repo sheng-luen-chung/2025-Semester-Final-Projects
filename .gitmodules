@@ -1,0 +1,6 @@
+[submodule "JAVA_11302_Project"]
+	path = JAVA_11302_Project
+	url = https://github.com/lilmu/JAVA_11302_Project.git
+[submodule "Space_Invader"]
+	path = Space_Invader
+	url = https://github.com/lilmu/Space_Invader.git
