@@ -7,3 +7,6 @@
 [submodule "Tetris"]
 	path = Tetris
 	url = ./../Tetris
+[submodule "JAVA-B11207014-Morris-B11207029-Johnson"]
+	path = JAVA-B11207014-Morris-B11207029-Johnson
+	url = https://github.com/sheng-luen-chung/JAVA-B11207014-Morris-B11207029-Johnson.git
