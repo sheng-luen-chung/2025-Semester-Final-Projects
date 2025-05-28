@@ -13,3 +13,6 @@
 [submodule "JAVA_TA_2024"]
 	path = JAVA_TA_2024
 	url = https://github.com/sheng-luen-chung/JAVA_TA_2024.git
+[submodule "JavaFinal"]
+	path = JavaFinal
+	url = https://github.com/sheng-luen-chung/JavaFinal.git
